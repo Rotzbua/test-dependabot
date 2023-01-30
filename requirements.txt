@@ -3,3 +3,4 @@ markdown2<2.4.8
 scrapy==2.7.1
 certifi==2022.12.7
 Markdown==3.3.3
+spotipy==2.22.0
