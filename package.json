@@ -6,6 +6,6 @@
   },
   "license": "GPL-3.0-only",
   "dependencies": {
-    "jquery": "3.0.0"
+    "jquery": "3.6.4"
   }
 }
