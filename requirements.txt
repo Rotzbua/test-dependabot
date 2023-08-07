@@ -1,5 +1,5 @@
 Sphinx==6.1.3
-markdown2<2.4.8
+markdown2<2.4.11
 scrapy==2.10.0
 certifi==2022.12.7
 Markdown==3.3.3
