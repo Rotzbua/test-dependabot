@@ -1,4 +1,4 @@
-Sphinx==6.1.3
+Sphinx==7.1.2
 markdown2<2.4.8
 scrapy==2.10.0
 certifi==2022.12.7
