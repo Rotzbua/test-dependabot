@@ -6,7 +6,7 @@ updates:
       interval: "weekly"
     commit-message:
       prefix: "chore(GH): "
-      prefix-development: "chore(GH): "
+      prefix-development: "chore_dev(GH): "
     groups:
       github-actions:
         patterns:
