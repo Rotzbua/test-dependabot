@@ -7,7 +7,6 @@ updates:
     commit-message:
       prefix: "chore(GH): "
       prefix-development: "chore(GH): "
-      include: "scope"
     groups:
       github-actions:
         patterns:
